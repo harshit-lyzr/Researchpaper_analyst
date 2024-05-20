@@ -1,3 +1,2 @@
 lyzr
 streamlit
-shutil
